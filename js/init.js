@@ -8,8 +8,9 @@
  * servidor. */
 // @ts-ignore
 firebase.initializeApp({
-    apiKey: "AIzaSyARA-h_lYyAsgiWfRrqvLwqdzWl0nGUvPA",
+   apiKey: "AIzaSyARA-h_lYyAsgiWfRrqvLwqdzWl0nGUvPA",
   authDomain: "proyectocosmeticoscvma0.firebaseapp.com",
+  databaseURL: "https://proyectocosmeticoscvma0-default-rtdb.firebaseio.com",
   projectId: "proyectocosmeticoscvma0",
   storageBucket: "proyectocosmeticoscvma0.appspot.com",
   messagingSenderId: "224500558523",
